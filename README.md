@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FeDeveloper95
 - 👀 I’m interested in AI, Android and Material 3 design.
-- 🌱 I’m currently learning how to not overthink
-- 📫 Contact me via Email, Instagram or Telegram
+- 🌱 I’m currently learning how to not overthink my code (and life).
+- 📫 You can reach me via [Email](mailto:federico.gobbi2009@gmail.com), [Instagram](https://instagram.com/__fedeee_95__) or [Telegram](https://t.me/fedeee2009).
 - ⚡ Fun fact: I don't like Apple :)
 
 <!---
