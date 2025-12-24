@@ -11,8 +11,7 @@
 
 ### Languages & Development
 ㅤ
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/java-%23f89917.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) [![Material Design](https://img.shields.io/badge/Material_3_Expressive-6750a4?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Git](https://img.shields.io/badge/GIT-f05539?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)](https://developer.android.com/studio)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/java-%23f89917.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) [![Material Design](https://img.shields.io/badge/Material_3_Expressive-6750a4?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose) [![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)](https://developer.android.com/studio)
 
 ### Systems & OS
 - **Primary OS:** BlueOS, my custom OS based on EndeavourOS (Arch Linux)
