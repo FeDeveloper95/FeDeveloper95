@@ -15,7 +15,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Git](https://img.shields.io/badge/GIT-f05539?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)](https://developer.android.com/studio)
 
 ### Systems & OS
-- **Primary OS:** EndeavourOS (Arch Linux) with GNOME (heavily customized)
+- **Primary OS:** BlueOS, my custom OS based on EndeavourOS (Arch Linux)
 - **Secondary OS:** Windows 11
 
 ### PC Specs (Lenovo Legion 5 Pro 16IAH7H)
