@@ -14,14 +14,14 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/java-%23f89917.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) [![Material Design](https://img.shields.io/badge/Material_3_Expressive-6750a4?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose) [![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)](https://developer.android.com/studio)
 
 ### Systems & OS
-- **Primary OS:** BlueOS, my custom OS based on EndeavourOS (Arch Linux)
+- **Primary OS:** BlueOS, my custom distro based on Ubuntu
 - **Secondary OS:** Windows 11
 
 ### PC Specs (Lenovo Legion 5 Pro 16IAH7H)
 - **CPU:** 12th Gen Intel® Core™ i7-12700H × 20
 - **GPU:** NVIDIA GeForce RTX™ 3070 Ti Laptop GPU
 - **RAM:** 40GB (32GB + 8GB) DDR5 4800MHz
-- **Storage:** 2TB NVMe (EndeavourOS) + 1TB NVMe (Windows 11)
+- **Storage:** 2TB NVMe (BlueOS) + 1TB NVMe (Windows 11)
 
 ### Android Devices
 ㅤ
