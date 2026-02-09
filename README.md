@@ -3,7 +3,7 @@
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-Faded_--_Alan_Walker-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://music.youtube.com/watch?v=60ItHLz5WEA)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fedeveloper95)
 
-> **Interested in:** AI, Android and Material 3 design.
+> **Interested in:** Android and Material 3 design.
 >
 > **Currently learning:** How to not overthink my code (and life).
 > 
@@ -14,7 +14,7 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/java-%23f89917.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) [![Material Design](https://img.shields.io/badge/Material_3_Expressive-6750a4?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose) [![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)](https://developer.android.com/studio)
 
 ### Systems & OS
-- **Primary OS:** BlueOS, my custom distro based on Ubuntu
+- **Primary OS:** BlueOS
 - **Secondary OS:** Windows 11
 
 ### PC Specs (Lenovo Legion 5 Pro 16IAH7H)
