@@ -1,5 +1,3 @@
-# 👋 Hi, I’m @FeDeveloper95
-
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-Faded_--_Alan_Walker-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://music.youtube.com/watch?v=60ItHLz5WEA)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fedeveloper95)
 
@@ -23,7 +21,7 @@
 - **RAM:** 40GB (32GB + 8GB) DDR5 4800MHz
 - **Storage:** 2TB NVMe (BlueOS) + 1TB NVMe (Windows 11)
 
-### Main Devices
+### Daily Devices
 ㅤ
 [![Google Pixel 9a](https://img.shields.io/badge/Pixel_9a-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/product/pixel_9a) 
 [![Galaxy Watch 4 44mm](https://img.shields.io/badge/Galaxy_Watch_4_44mm-000000?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/global/galaxy/galaxy-watch4/)
