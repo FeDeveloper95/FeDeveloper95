@@ -19,7 +19,7 @@
 - **CPU:** 12th Gen Intel® Core™ i7-12700H × 20
 - **GPU:** NVIDIA GeForce RTX™ 3070 Ti Laptop GPU
 - **RAM:** 40GB (32GB + 8GB) DDR5 4800MHz
-- **Storage:** 2TB NVMe (BlueOS) + 1TB NVMe (Windows 11)
+- **Storage:** 2TB NVMe (Debian Testing) + 1TB NVMe (Windows 11)
 
 ### Daily Devices
 ㅤ
