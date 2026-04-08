@@ -14,7 +14,7 @@
 ### OS used
 - **Primary OS:** Debian Testing
 - **Secondary OS:** Windows 11
-- ***Tertiary OS:** ChromeOS
+- **Tertiary OS:** ChromeOS
 
 ### PC Specs (Lenovo Legion 5 Pro 16IAH7H)
 - **CPU:** 12th Gen Intel® Core™ i7-12700H × 20
