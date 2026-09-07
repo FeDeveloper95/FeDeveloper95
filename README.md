@@ -1,6 +1,5 @@
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-Faded_--_Alan_Walker-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://music.youtube.com/watch?v=60ItHLz5WEA)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fedeveloper95)
-
+<a href="https://music.youtube.com/watch?v=60ItHLz5WEA"><img src="https://github.com/user-attachments/assets/3dd2c2e9-1ba5-4fbe-b73c-1fcda5f935dd" height="35"></a>
+<a href="https://t.me/fedeveloper95lab"><img src="https://github.com/user-attachments/assets/ac2b97b6-ed4e-40ba-9ab5-c96c2519a220" height="35"></a>
 > **Interested in:** Android and Material 3 design.
 >
 > **Currently learning:** How to not overthink my code (and life).
@@ -8,8 +7,8 @@
 > **Fun fact:** I don't like Apple :)
 
 ### Languages & Development
-ㅤ
-[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/java-%23f89917.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) [![Material Design](https://img.shields.io/badge/Material_3_Expressive-6750a4?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/) [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/compose) [![Android Studio](https://img.shields.io/badge/Android%20Studio-072F41.svg?style=for-the-badge&logo=android-studio&logoColor=3DDB83)](https://developer.android.com/studio)
+
+<img src="https://github.com/user-attachments/assets/3c6331bf-e2eb-48ee-9a72-d5977933c3d4" height="35">
 
 ### OS used
 - **Primary OS:** Debian Testing
@@ -22,11 +21,8 @@
 - **Storage:** 2TB NVMe (Debian Testing) + 1TB NVMe (Windows 11)
 
 ### Daily Devices
-ㅤ
-[![Google Pixel 9a](https://img.shields.io/badge/Pixel_9a-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://store.google.com/product/pixel_9a) 
-[![Galaxy Watch 4 44mm](https://img.shields.io/badge/Galaxy_Watch_4_44mm-000000?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/global/galaxy/galaxy-watch4/)
+<img src="https://github.com/user-attachments/assets/9daad050-6763-464b-b95c-d94f36d6cfda" height="35">
 
 ### Other devices
+<img src="https://github.com/user-attachments/assets/862d0624-492f-4720-a1cc-55dd451c864a" height="35">
 
-[![OnePlus Nord CE 5G](https://img.shields.io/badge/OnePlus_Nord_CE_5G-F31212?style=for-the-badge&logo=oneplus&logoColor=white)](https://www.oneplus.com/)
-[![Lumia 640XL](https://img.shields.io/badge/Lumia_640XL-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
