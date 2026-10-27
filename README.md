@@ -13,10 +13,11 @@
 ### OS used
 - **Primary OS:** Debian Testing
 - **Secondary OS:** Windows 11
+- **OS on the go:** GooglebookOS port (thanks to the [gbos-x86](https://github.com/Gaia-Kapo) project)
 
 ### PC Specs (Lenovo Legion 5 Pro 16IAH7H)
 - **CPU:** 12th Gen Intel® Core™ i7-12700H × 20
-- **GPU:** NVIDIA GeForce RTX™ 3070 Ti Laptop GPU
+- **GPU:** NVIDIA GeForce RTX™ 3070 Ti 8GB Laptop GPU
 - **RAM:** 40GB (32GB + 8GB) DDR5 4800MHz
 - **Storage:** 2TB NVMe (Debian Testing) + 1TB NVMe (Windows 11)
 
